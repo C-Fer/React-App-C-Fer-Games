@@ -1,0 +1,6 @@
+header {
+    background-image: url('/assets/fondo1.png');
+    background-size: cover;
+    height: 550px;
+    position: relative;
+}
